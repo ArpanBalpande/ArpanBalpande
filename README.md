@@ -5,6 +5,7 @@
 -->
 
 I am [Arpan](https://www.arpan-balpande.com/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
+![Arpan's github stats](https://github-readme-stats.vercel.app/api?username=ArpanBalpande&hide=issues&show_icons=true&theme=onedark)
 
 I mostly work with Golang and Cloud-Native technologies.☁️🚀
 
