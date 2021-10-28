@@ -41,9 +41,6 @@ I mostly work with Golang and Cloud-Native technologies.☁️🚀
 ### CSPs
   
  <p float="left">
-  <a href="https://bit.ly/2W7a91W" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
@@ -69,9 +66,6 @@ I mostly work with Golang and Cloud-Native technologies.☁️🚀
   <a href="https://www.postgresql.org/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
   </a>
-  <a href="https://www.timescale.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
-  </a>&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
   </a>
@@ -79,7 +73,7 @@ I mostly work with Golang and Cloud-Native technologies.☁️🚀
 
 ### 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://www.arpan-balapnde.com) 🌐 <br>
+  ⦿ Visit my [Website](https://www.arpan-balpande.com) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ArpanBalpande/) 👨🏻‍💻 <br>
   ⦿ Follow me on [Twitter](https://twitter.com/BalpandeArpan) 🐦 <br>
   ⦿ Shoot Me an [Email](mailto:arpan.balpande22@gmail.com) 💌 <br>
