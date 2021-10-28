@@ -79,7 +79,7 @@ I mostly work with Golang and Cloud-Native technologies.☁️🚀
 
 ### 📫 How to reach me? 
 
-  ⦿ Visit my [Website](https://www.kumar-saurabh.com) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/itsksaurabh/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:itsksaurabh@gmail.com) 💌 <br>
+  ⦿ Visit my [Website](https://www.arpan-balapnde.com) 🌐 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ArpanBalpande/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/BalpandeArpan) 🐦 <br>
+  ⦿ Shoot Me an [Email](mailto:arpan.balpande22@gmail.com) 💌 <br>
